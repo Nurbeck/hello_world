@@ -1,5 +1,4 @@
 # hello_world
-first repository
-Hello People!
-I am learning Java currently. Hope I will have support from other programmers in this site and will be sharing my experience alos with others...
-Thanks.
+Please help with the coding in Java.
+
+Need to implement a program that will be authorized on the Telegram server and print the name of the user under which authorization occurred. The phone number and verification code must be entered from the console.
